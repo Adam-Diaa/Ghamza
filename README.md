@@ -84,7 +84,7 @@ Setup
 
 bash# Clone the repository
 
-git clone https://github.com/yourusername/ghamza_game.git
+git clone https://github.com/Adam-Diaa/Ghamza.git
 
 cd ghamza_game
 
