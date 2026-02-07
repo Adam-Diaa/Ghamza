@@ -4,14 +4,20 @@ This mobile app eliminates the need for physical cards and makes the game setup 
 🌟 Why Ghamza?
 
 ✅ No Physical Cards Needed - Everything runs on one device
+
 ✅ Bilingual Support - Switch between Arabic and English seamlessly
+
 ✅ Completely Offline - No internet connection required
+
 ✅ No Ads - Pure gaming experience
+
 ✅ Free & Open Source - Forever free for everyone
+
 ✅ Lightweight - Small app size, runs smoothly on any device
 
 
 ✨ Features
+
 🎮 Core Gameplay
 
 .Random Number Distribution - Each player gets a unique secret number
